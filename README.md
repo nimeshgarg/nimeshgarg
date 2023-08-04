@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm Nimesh Garg/h1>
-<h3 align="center">Software Undergraduate at University of Queensland, Brisbane, Australia.</h3>
+<h1 align="center">Hi 👋, I'm Nimesh Garg </h1>
+<h3 align="center">Software Undergraduate at University of Queensland, Brisbane, Australia</h3>
 <img src="https://komarev.com/ghpvc/?username=nimeshgarg&label=Profile%20views&color=0e75b6&style=flat" alt="nimeshgarg" /> </p>
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="side Image" align="right" width="500" height="auto">
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="side Image" align="right" width="400" height="auto">
 
 - 🏦 I’m in final year of **Software Engineering.**
 - 💻 I’m currently learning **VR/AR along with Digital Human**
