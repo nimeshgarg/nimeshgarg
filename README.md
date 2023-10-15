@@ -11,6 +11,10 @@
  [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://www.linkedin.com/in/nimeshgarg/)  &nbsp; <a href="mailto:nimeshgarg10@gmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/>
 - 🧑‍💻 Tech I work on: <br><br>
   [![My Skills](https://skillicons.dev/icons?i=cpp,gcp,flutter,py,js,ts,html,css,react,docker,haskell,mongodb,express,nodejs,tensorflow&perline=4)](https://skillicons.dev)<br><br>
-  <img width="500" height="auto" align="centre" alt="Nimesh's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=nimeshgarg&show_icons=true&theme=react&count_private=true&include_all_commits=true" />
+
+  <p>
+  <a align="left" href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com/?user=nimeshgarg&theme=react" alt="Nimesh's github stats"></a>
+  <a align="right" href="https://github.com/nimeshgarg/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=nimeshgarg&theme=react&hide_border=false&include_all_commits=true&count_private=true"></a>
+</p>
 
 <!-- <p><img align="right" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=nimeshgarg&" alt="nimeshgarg" /></p> -->
