@@ -13,8 +13,8 @@
   [![My Skills](https://skillicons.dev/icons?i=cpp,gcp,flutter,py,js,ts,html,css,react,docker,haskell,mongodb,express,nodejs,tensorflow&perline=4)](https://skillicons.dev)<br><br>
 
   <p>
-  <a align="left" href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com/?user=nimeshgarg&theme=react" alt="Nimesh's github stats"></a>
-  <a align="right" href="https://github.com/nimeshgarg/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=nimeshgarg&theme=react&hide_border=false&include_all_commits=true&count_private=true"></a>
+  <a align="left" href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com/?user=nimeshgarg&theme=dark" alt="Nimesh's github stats"></a>
+  <a align="right" href="https://github.com/nimeshgarg/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=nimeshgarg&theme=dark&hide_border=false&include_all_commits=true&count_private=true"></a>
 </p>
 
 <!-- <p><img align="right" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=nimeshgarg&" alt="nimeshgarg" /></p> -->
