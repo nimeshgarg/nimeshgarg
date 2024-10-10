@@ -10,7 +10,7 @@
 - 📫 Contact me at: <br><br>
   [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://www.linkedin.com/in/nimeshgarg/) &nbsp; <a href="mailto:nimeshgarg10@gmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/>
 - 🧑‍💻 Tech I work on: <br><br>
-[![My Skills](https://skillicons.dev/icons?i=cpp,gcp,flutter,py,js,ts,html,css,react,docker,haskell,mongodb,express,nodejs,tensorflow,terraform,aws&perline=4)](https://skillicons.dev)<br><br>
+[![My Skills](https://skillicons.dev/icons?i=cpp,gcp,flutter,py,js,ts,html,css,react,docker,haskell,mongodb,express,nodejs,tensorflow,terraform,aws&perline=5)](https://skillicons.dev)<br><br>
 
   <p>
   <a align="left" href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com/?user=nimeshgarg&theme=dark" alt="Nimesh's github stats"></a>
