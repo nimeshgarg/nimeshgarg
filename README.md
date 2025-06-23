@@ -3,9 +3,9 @@
 <img src="https://komarev.com/ghpvc/?username=nimeshgarg&label=Profile%20views&color=0e75b6&style=flat" alt="nimeshgarg" /> </p>
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="side Image" align="right" width="400" height="auto">
 
-- 🏦 I’m in final year of **Software Engineering.**
+- 🏦 I’m Graduate from **UQ** in **BE(HONOUR) In Software Engineering.**
 - 💻 I’m currently learning **VR/AR along with Digital Human**
-- 🤔 I've keen interest in **Mobile Application Development and Cyber Security**
+- 🤔 I've keen interest in **Solution Architecture and Cyber Security**
 <!-- - ⚡ I’m looking for opportunities to collaborate on projects on **App Dev** -->
 - 📫 Contact me at: <br><br>
   [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://www.linkedin.com/in/nimeshgarg/) &nbsp; <a href="mailto:nimeshgarg10@gmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/>
